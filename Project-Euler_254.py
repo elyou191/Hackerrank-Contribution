@@ -4,7 +4,6 @@ def fact(n):
         q*=i
     return q
 
-
 def f(l):
     l=list(str(l))
     p=0
@@ -25,6 +24,7 @@ def g(n,r):
             x=i
             break
     return x
+
 def sg(l,r):
     s=0
     l=list(str(g(l,r)))
